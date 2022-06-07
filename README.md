@@ -13,8 +13,11 @@
   * JavaScript (Browser, non-framework, hobby)
   * JavaScript (Node.js, IoT, hobby)
   * Python (IoT, production)
-  * R (hobby)
+  * PHP (Server-side, production)
+  * SQL (MySQL, production)
+  * SQL (BigQuery, hobby)
   * HTML/CSS (production)
+  * R (hobby)
 
 # User Interface Translation
 
