@@ -1,23 +1,30 @@
 # Skills & works
 
-* Computer Mediated Communication (Text chat, with Natural Language Processing) \[PhD\]
+* Computer Mediated Communication \[Ph.D.\]
+  * Text Chat (History, effect/effort of short text messaging, incl. backchannel)
+  * Natural Language Processing (Japanese)
+  * Human Computer Interaction (Interface)
 * Sensor Network
   * Raspberry Pi (Prototyping, production)
-  * Bluetooth LE
-* Statistics (Legacy "Big Data", non-DL)
+  * Bluetooth LE (Central, iBeacon, Android app, production)
+  * PIC (hobby)
+* Statistics
+  * SPSS (hobby)
+  * LibSVM (hobby)
+  * Hadoop (production)
+  * BigQuery (hobby)
+  * R (hobby)
 * Programming
-  * Java (Server-side, production)
+  * Java (SAStruts, AWS SDK, production)
   * Java/Kotlin (Android app, production)
   * C# (Windows Forms, hobby)
   * C# (Unity, production)
   * JavaScript (Browser, non-framework, hobby)
   * JavaScript (Node.js, IoT, hobby)
   * Python (IoT, production)
-  * PHP (Server-side, production)
+  * PHP (CakePHP, non-framework, production)
   * SQL (MySQL, production)
-  * SQL (BigQuery, hobby)
   * HTML/CSS (production)
-  * R (hobby)
 
 # User Interface Translation
 
