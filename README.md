@@ -1,19 +1,21 @@
-# Skills & works
+# Skills & Works
 
 * Science
   * Computer Mediated Communication \[Ph.D.\]
   * Text Chat (History, effect/effort of short text messaging, incl. backchannel)
   * Natural Language Processing (Japanese)
   * Human Computer Interaction (Interface)
-* Sensor Network
+* Hardware
   * Raspberry Pi (Sensor System, Prototyping, Production)
-    * Realtime (WebSocket)
+    * IoT Sensor Network
+    * WebSocket
+    * MQTT
     * Global Mobile Network
     * SORACOM
   * Bluetooth LE (Android App, Production)
     * Central
     * iBeacon
-  * PIC (hobby)
+  * PIC (Hobby)
 * Statistics
   * SPSS (Hobby)
   * LibSVM (Hobby)
