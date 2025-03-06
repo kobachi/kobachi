@@ -1,30 +1,46 @@
 # Skills & works
 
-* Computer Mediated Communication \[Ph.D.\]
+* Science
+  * Computer Mediated Communication \[Ph.D.\]
   * Text Chat (History, effect/effort of short text messaging, incl. backchannel)
   * Natural Language Processing (Japanese)
   * Human Computer Interaction (Interface)
 * Sensor Network
-  * Raspberry Pi (Prototyping, production)
-  * Bluetooth LE (Central, iBeacon, Android app, production)
+  * Raspberry Pi (Sensor System, Prototyping, Production)
+    * Realtime (WebSocket)
+    * Global Mobile Network
+    * SORACOM
+  * Bluetooth LE (Android App, Production)
+    * Central
+    * iBeacon
   * PIC (hobby)
 * Statistics
-  * SPSS (hobby)
-  * LibSVM (hobby)
-  * Hadoop (production)
-  * BigQuery (hobby)
-  * R (hobby)
+  * SPSS (Hobby)
+  * LibSVM (Hobby)
+  * Hadoop (Production)
+  * BigQuery (Production)
+  * R (Hobby)
 * Programming
-  * Java (SAStruts, AWS SDK, production)
-  * Java/Kotlin (Android app, production)
-  * C# (Windows Forms, hobby)
-  * C# (Unity, production)
-  * JavaScript (Browser, non-framework, hobby)
-  * JavaScript (Node.js, IoT, hobby)
-  * Python (IoT, production)
-  * PHP (CakePHP, non-framework, production)
-  * SQL (MySQL, production)
-  * HTML/CSS (production)
+  * Java 7 (Web Service, Production)
+    * SAStruts
+    * Guava
+    * AWS SDK
+  * Java 8～ & Kotlin (Android App, Production)
+    * RxJava
+    * Custom Reflection-based Middleware
+    * JUnit
+  * C# (Windows App, Hobby)
+    * Windows Forms
+  * C# (Android APp, Production)
+    * Unity
+    * ARCore
+  * JavaScript (Browser, Hobby)
+  * JavaScript (Node.js, IoT, Hobby)
+  * Python (IoT, Production)
+  * PHP (Web Service, Production)
+    * CakePHP
+  * SQL (MySQL, Production)
+  * HTML/CSS (Production)
 
 # User Interface Translation
 
