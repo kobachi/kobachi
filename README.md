@@ -1,3 +1,12 @@
+# Current
+
+* Working at Japanese company
+* Senior Engineer & Architect of an Android app 7M users in Japan
+
+# Past
+
+* Server-Side & Front-End Engineer at Japanese company
+
 # Skills & Works
 
 * Science
