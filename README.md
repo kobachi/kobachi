@@ -53,7 +53,7 @@
   * SQL (MySQL, Production)
   * HTML/CSS (Production)
 
-# User Interface Translation
+# Contribution (UI Translation)
 
 * [WinSCP](https://winscp.net) (Japanese)
 * [SumatraPDF](https://www.sumatrapdfreader.org/) (Japanese)
